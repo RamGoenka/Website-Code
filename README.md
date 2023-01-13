@@ -1,3 +1,3 @@
 ## Personal Portfolio
 
-Here is a link to my [Personal Website](http://ramgoenka.com/)
+[Here](http://ramgoenka.com/) is a link to my Personal Website. 
